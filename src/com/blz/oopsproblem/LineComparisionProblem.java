@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class LineComparisionProblem {
 
-}
-
 	public static double lineValues() {
 		try (Scanner sc = new Scanner(System.in)) {
 			double x1, x2, y1, y2;
