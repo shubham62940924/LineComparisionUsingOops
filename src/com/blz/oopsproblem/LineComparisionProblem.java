@@ -36,7 +36,7 @@ public class LineComparisionProblem {
 		System.out.println("Length Of Line1 is: " + lineOneLength);
 
 		double lineTwoLength = lineValues();
-		System.out.println("Length Of Line2 is: " + lineTwoLength);
+		System.out.println("Length  Of Line2 is: " + lineTwoLength);
 
 		checkEquality(lineOneLength, lineTwoLength);
 	}
